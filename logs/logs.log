@@ -1,0 +1,334 @@
+[INFO ] 2024-01-30 07:44:17.242 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 07:44:29.124 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 07:44:29.134 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 07:44:38.365 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 07:44:42.450 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 07:46:10.241 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 07:46:15.163 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 07:46:15.186 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 07:46:24.837 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 07:47:21.906 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:28:44.887 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:28:46.786 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:28:46.798 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:28:55.993 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:29:12.274 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:30:09.953 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:30:12.107 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:30:12.115 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:30:19.469 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:31:30.740 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:36:54.459 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:36:56.257 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:36:56.279 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:37:25.412 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:37:46.683 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:39:11.041 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:39:12.858 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:39:12.892 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:39:21.988 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:39:49.402 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:39:51.160 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:39:55.251 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 10:40:04.930 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 10:42:14.044 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:42:16.620 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:42:16.628 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:42:25.156 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:42:48.278 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:42:50.645 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:42:53.464 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 10:43:04.543 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 10:43:19.972 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:44:51.378 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:44:53.590 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:44:53.603 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 10:45:01.684 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 10:45:07.133 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:45:09.581 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:45:09.582 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 10:45:49.214 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 10:45:51.945 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 10:45:53.605 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 10:45:53.607 [main] LogUtils -  STEP  1 :Open the amazon browser, Add two product in a add to cart
+[INFO ] 2024-01-30 13:12:59.306 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:13:02.403 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:13:02.411 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-01-30 13:13:10.375 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-01-30 13:13:15.577 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:13:17.985 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:13:17.988 [main] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-01-30 13:13:55.797 [main] LogUtils -  STEP  1 :Validate product already added to add to cart view is displayed
+[INFO ] 2024-01-30 13:13:59.126 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:14:00.676 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:14:00.677 [main] LogUtils -  STEP  1 :Open the amazon browser, Add two product in a add to cart
+[INFO ] 2024-01-30 13:14:17.857 [main] LogUtils -  STEP  1 :Validate total amount selected product is accurate cart page
+[INFO ] 2024-01-30 13:14:21.315 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:14:22.748 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:14:22.749 [main] LogUtils -  STEP  1 :Open the amazon browser, Add product into cart and remove the product from add to cart page
+[INFO ] 2024-01-30 13:14:31.474 [main] LogUtils -  STEP  1 :Validate cart page is empty
+[INFO ] 2024-01-30 13:14:34.922 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:14:37.505 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:14:37.507 [main] LogUtils -  STEP  1 :Open the amazon browser, Select language
+[INFO ] 2024-01-30 13:15:08.622 [main] LogUtils -  STEP  1 :Validate the language changes display
+[INFO ] 2024-01-30 13:15:11.878 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:15:13.735 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:15:13.737 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product and scroll down bottom of the page
+[INFO ] 2024-01-30 13:15:16.188 [main] LogUtils -  STEP  1 :Validate Back to top and amazon logo functionality
+[INFO ] 2024-01-30 13:15:27.423 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:15:29.297 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:15:29.300 [main] LogUtils -  STEP  1 :Open the amazon browser, Update pincode
+[INFO ] 2024-01-30 13:15:34.255 [main] LogUtils -  STEP  1 :Validate location field is updated
+[INFO ] 2024-01-30 13:15:38.093 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:15:39.808 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:15:39.810 [main] LogUtils -  STEP  1 :Open the amazon browser, Navigate to signin page and enter invalidate email and phone number
+[INFO ] 2024-01-30 13:15:42.148 [main] LogUtils -  STEP  1 :Validate error message for invalid email or phone
+[INFO ] 2024-01-30 13:16:55.218 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:16:57.461 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:16:57.469 [main] LogUtils -  STEP  1 :Open the amazon browser, Navigate to signin page and enter invalidate email and phone number
+[INFO ] 2024-01-30 13:16:59.585 [main] LogUtils -  STEP  1 :Validate error message for invalid email or phone
+[INFO ] 2024-01-30 13:18:09.840 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-01-30 13:18:11.939 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-01-30 13:18:11.946 [main] LogUtils -  STEP  1 :Open the amazon browser, Navigate to signin page and enter invalidate email and phone number
+[INFO ] 2024-01-30 13:18:13.889 [main] LogUtils -  STEP  1 :Validate error message for invalid email or phone
+[INFO ] 2024-10-08 10:45:04.362 [TestNG-test=TestSuite-2] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-10-08 10:45:04.362 [TestNG-test=TestSuite-1] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-10-08 10:45:08.022 [TestNG-test=TestSuite-1] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-10-08 10:45:08.044 [TestNG-test=TestSuite-1] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-10-08 10:45:09.427 [TestNG-test=TestSuite-2] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-10-08 10:45:09.429 [TestNG-test=TestSuite-2] LogUtils -  STEP  1 :Open the amazon browser, Select specific section and added product into cart
+[INFO ] 2024-10-08 10:45:22.291 [TestNG-test=TestSuite-1] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-10-08 10:53:09.083 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-10-08 10:53:10.510 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-10-08 10:53:10.517 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-10-08 10:53:19.309 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+[INFO ] 2024-10-08 17:42:10.336 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-10-08 17:42:15.480 [main] LogUtils -  STEP  1 :Chrome Driver setup is completed
+[INFO ] 2024-10-08 17:43:17.778 [main] LogUtils -  STEP  1 :Browser launched successfully
+[INFO ] 2024-10-08 17:44:38.528 [main] LogUtils -  STEP  1 :Open the amazon browser, Select product added into cart
+[INFO ] 2024-10-08 17:47:27.039 [main] LogUtils -  STEP  1 :validate Select Product and Add Into Cart
+2024-10-09 10:06:48 INFO  LogUtils:Line No.90 - Hello world
+2024-10-09 10:07:40 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 10:11:27 INFO  LogUtils:Line No.90 - Hello world
+2024-10-09 10:12:03 INFO  LogUtils:Line No.90 - Hello world
+2024-10-09 10:12:06 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 10:12:08 INFO  LogUtils:Line No.32 -     STEP  2 :Browser launched successfully
+2024-10-09 10:12:08 INFO  LogUtils:Line No.32 -     STEP  3 :Open the amazon browser, Select product added into cart
+2024-10-09 10:12:17 INFO  LogUtils:Line No.32 -     STEP  4 :validate Select Product and Add Into Cart
+2024-10-09 10:35:14 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 10:35:18 INFO  LogUtils:Line No.32 -     STEP  2 :Browser launched successfully
+2024-10-09 10:35:25 INFO  LogUtils:Line No.32 -     STEP  3 :Open the amazon browser, Select product added into cart
+2024-10-09 10:40:39 INFO  LogUtils:Line No.32 -     STEP  4 :validate Select Product and Add Into Cart
+2024-10-09 11:18:48 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 11:19:24 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:26 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:19:55 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:30:59 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 11:31:01 INFO  LogUtils:Line No.32 -     STEP  2 :Browser launched successfully
+2024-10-09 11:31:14 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:31:14 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:31:30 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 11:31:42 INFO  LogUtils:Line No.32 -     STEP  2 :Browser launched successfully
+2024-10-09 11:31:51 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:31:51 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:34:17 INFO  LogUtils:Line No.32 -     STEP  1 :Chrome Driver setup is completed
+2024-10-09 11:34:28 INFO  LogUtils:Line No.32 -     STEP  2 :Browser launched successfully
+2024-10-09 11:34:32 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:34:32 INFO  LogUtils:Line No.90 -         
+2024-10-09 11:34:51 INFO  LogUtils:Line No.90 -         Started Test validateAddProductIntoCartBySearching
+2024-10-09 11:34:56 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 11:34:32 AM
+2024-10-09 11:35:37 INFO  LogUtils:Line No.32 -     STEP  1 :Open the amazon browser, Select product added into cart
+2024-10-09 11:37:28 INFO  LogUtils:Line No.32 -     STEP  2 :validate Select Product and Add Into Cart
+2024-10-09 13:52:07 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 13:52:07 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 13:52:35 INFO  LogUtils:Line No.90 - 
+2024-10-09 13:52:35 INFO  LogUtils:Line No.90 - 
+2024-10-09 13:52:37 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 13:52:37 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 13:52:35 PM
+2024-10-09 13:52:37 INFO  LogUtils:Line No.32 -     STEP  1 :Open the amazon browser, Select product added into cart
+2024-10-09 13:53:29 INFO  LogUtils:Line No.32 -     STEP  2 :validate Select Product and Add Into Cart
+2024-10-09 13:53:37 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 13:54:04 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 13:54:04 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 13:54:20 INFO  LogUtils:Line No.90 - 
+2024-10-09 13:54:20 INFO  LogUtils:Line No.90 - 
+2024-10-09 13:54:22 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 13:54:22 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 13:54:20 PM
+2024-10-09 13:54:30 INFO  LogUtils:Line No.32 -     STEP  1 :Open the amazon browser, Select product added into cart
+2024-10-09 14:36:40 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 14:36:40 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 14:36:56 INFO  LogUtils:Line No.90 - 
+2024-10-09 14:36:56 INFO  LogUtils:Line No.90 - 
+2024-10-09 14:36:56 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 14:36:56 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 14:36:56 PM
+2024-10-09 14:37:44 INFO  LogUtils:Line No.32 -     STEP  1 :Open the amazon browser, Select product added into cart
+2024-10-09 14:38:10 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 14:38:10 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 14:38:25 INFO  LogUtils:Line No.90 - 
+2024-10-09 14:38:25 INFO  LogUtils:Line No.90 - 
+2024-10-09 14:38:25 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 14:38:25 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 14:38:25 PM
+2024-10-09 14:38:38 INFO  LogUtils:Line No.32 -     STEP  1 :Open the amazon browser, Select product added into cart
+2024-10-09 14:39:09 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 14:39:09 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 14:39:27 INFO  LogUtils:Line No.90 - 
+2024-10-09 14:39:27 INFO  LogUtils:Line No.90 - 
+2024-10-09 14:39:30 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 14:39:32 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 14:39:27 PM
+2024-10-09 15:43:09 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:43:09 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:43:24 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:43:24 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:43:29 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:43:29 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:43:24 PM
+2024-10-09 15:43:41 INFO  LogUtils:Line No.32 -     STEP  1 :Open the amazon browser, Select product added into cart
+2024-10-09 15:44:45 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:44:45 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:44:58 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:44:58 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:44:58 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:44:58 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:44:58 PM
+2024-10-09 15:44:58 INFO  LogUtils:Line No.90 - Search product
+2024-10-09 15:44:58 INFO  LogUtils:Line No.32 -     STEP  1 :Search the Product
+2024-10-09 15:45:03 INFO  LogUtils:Line No.32 -     STEP  2 :Click on the searched product
+2024-10-09 15:45:03 INFO  LogUtils:Line No.32 -     STEP  3 :Click on Add to Cart
+2024-10-09 15:45:15 INFO  LogUtils:Line No.32 -     STEP  4 :Verify the Product is in Cart section
+2024-10-09 15:45:15 INFO  LogUtils:Line No.32 -     STEP  5 :Is the selected product displayed in Cart sectiontrue
+2024-10-09 15:45:20 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateProductAlreadyAddedToAddToCartViewIsDisplayed
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateTotalAmountSelectedProductIsAccurateCartPage
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateAddToCartPageAfterRemovingProduct
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateLanguageChangesFunctionality
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateBackToTopAndAmazonLogoFunctionality
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateLocationFieldIsUpdated
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         Started Test validateEmailField
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         START TIME : Wednesday, October 09, 2024 15:45:21 PM
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -          Test case Skipped in MAC.
+2024-10-09 15:45:21 INFO  LogUtils:Line No.90 -         After Test.
+2024-10-09 15:45:54 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:45:54 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:46:07 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:46:07 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:46:07 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:46:07 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:46:07 PM
+2024-10-09 15:46:07 INFO  LogUtils:Line No.90 - Search product
+2024-10-09 15:46:07 INFO  LogUtils:Line No.32 -     STEP  1 :Search the Product
+2024-10-09 15:46:11 INFO  LogUtils:Line No.32 -     STEP  2 :Click on the searched product
+2024-10-09 15:46:11 INFO  LogUtils:Line No.32 -     STEP  3 :Click on Add to Cart
+2024-10-09 15:46:24 INFO  LogUtils:Line No.32 -     STEP  4 :Verify the Product is in Cart section
+2024-10-09 15:46:24 INFO  LogUtils:Line No.32 -     STEP  5 :Is the selected product displayed in Cart sectiontrue
+2024-10-09 15:46:29 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 15:46:30 INFO  LogUtils:Line No.90 -         After Test.
+2024-10-09 15:48:57 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:48:57 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:49:10 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:49:10 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:49:10 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:49:10 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:49:10 PM
+2024-10-09 15:49:10 INFO  LogUtils:Line No.32 -     STEP  1 :Go to Amazon Dashboard page
+2024-10-09 15:49:10 INFO  LogUtils:Line No.32 -     STEP  2 :Search the Product
+2024-10-09 15:49:14 INFO  LogUtils:Line No.32 -     STEP  3 :Click on the searched product
+2024-10-09 15:49:14 INFO  LogUtils:Line No.32 -     STEP  4 :Click on Add to Cart
+2024-10-09 15:49:26 INFO  LogUtils:Line No.32 -     STEP  5 :Verify the Product is in Cart section
+2024-10-09 15:49:26 INFO  LogUtils:Line No.32 -     STEP  6 :Is the selected product displayed in Cart sectiontrue
+2024-10-09 15:49:29 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 15:49:31 INFO  LogUtils:Line No.90 -         After Test.
+2024-10-09 15:49:51 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:49:51 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:49:58 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:49:58 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:49:58 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:49:58 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:49:58 PM
+2024-10-09 15:49:58 INFO  LogUtils:Line No.32 -     STEP  1 :Go to Amazon Dashboard page
+2024-10-09 15:49:58 INFO  LogUtils:Line No.32 -     STEP  2 :Search the Product
+2024-10-09 15:50:16 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:50:16 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:50:28 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:50:28 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:50:28 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:50:28 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:50:28 PM
+2024-10-09 15:50:28 INFO  LogUtils:Line No.32 -     STEP  1 :Dashboard page
+2024-10-09 15:50:28 INFO  LogUtils:Line No.32 -     STEP  2 :Search the Product
+2024-10-09 15:50:32 INFO  LogUtils:Line No.32 -     STEP  3 :Click on the searched product
+2024-10-09 15:50:32 INFO  LogUtils:Line No.32 -     STEP  4 :Click on Add to Cart
+2024-10-09 15:50:44 INFO  LogUtils:Line No.32 -     STEP  5 :Verify the Product is in Cart section
+2024-10-09 15:50:44 INFO  LogUtils:Line No.32 -     STEP  6 :Is the selected product displayed in Cart sectiontrue
+2024-10-09 15:50:48 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 15:50:50 INFO  LogUtils:Line No.90 -         After Test.
+2024-10-09 15:51:02 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:51:02 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:51:15 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:51:15 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:51:15 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:51:15 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:51:15 PM
+2024-10-09 15:51:15 INFO  LogUtils:Line No.32 -     STEP  1 :Dashboard page
+2024-10-09 15:51:15 INFO  LogUtils:Line No.32 -     STEP  2 :Search the Product
+2024-10-09 15:51:18 INFO  LogUtils:Line No.32 -     STEP  3 :Click on the searched product
+2024-10-09 15:51:18 INFO  LogUtils:Line No.32 -     STEP  4 :Click on Add to Cart
+2024-10-09 15:52:10 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:52:10 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:52:23 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:52:23 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:52:23 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:52:23 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:52:23 PM
+2024-10-09 15:52:23 INFO  LogUtils:Line No.32 -     STEP  1 :search Dashboard page
+2024-10-09 15:52:23 INFO  LogUtils:Line No.32 -     STEP  2 :Search the Product
+2024-10-09 15:52:26 INFO  LogUtils:Line No.32 -     STEP  3 :Click on the searched product
+2024-10-09 15:52:26 INFO  LogUtils:Line No.32 -     STEP  4 :Click on Add to Cart
+2024-10-09 15:52:39 INFO  LogUtils:Line No.32 -     STEP  5 :Verify the Product is in Cart section
+2024-10-09 15:52:39 INFO  LogUtils:Line No.32 -     STEP  6 :Is the selected product displayed in Cart sectiontrue
+2024-10-09 15:52:43 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 15:52:45 INFO  LogUtils:Line No.90 -         After Test.
+2024-10-09 15:54:28 INFO  LogUtils:Line No.90 - Test data Properties file is loaded 
+2024-10-09 15:54:28 INFO  LogUtils:Line No.90 - Browser launched successfully
+2024-10-09 15:54:40 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:54:40 INFO  LogUtils:Line No.90 - 
+2024-10-09 15:54:40 INFO  LogUtils:Line No.90 - Started Test validateAddProductIntoCartBySearching
+2024-10-09 15:54:40 INFO  LogUtils:Line No.90 - START TIME : Wednesday, October 09, 2024 15:54:40 PM
+2024-10-09 15:54:40 INFO  LogUtils:Line No.32 -     STEP  1 :search Dashboard page
+2024-10-09 15:54:40 INFO  LogUtils:Line No.32 -     STEP  2 :Search the Product
+2024-10-09 15:54:43 INFO  LogUtils:Line No.32 -     STEP  3 :Click on the searched product
+2024-10-09 15:54:43 INFO  LogUtils:Line No.32 -     STEP  4 :Click on Add to Cart
+2024-10-09 15:54:55 INFO  LogUtils:Line No.32 -     STEP  5 :Verify the Product is in Cart section
+2024-10-09 15:54:55 INFO  LogUtils:Line No.32 -     STEP  6 :Is the selected product displayed in Cart sectiontrue
+2024-10-09 15:54:57 INFO  LogUtils:Line No.90 -         TEST PASSED.
+2024-10-09 15:54:59 INFO  LogUtils:Line No.90 -         After Test.
