@@ -2,7 +2,7 @@ package com.amazon.PageObjectModel;
 
 import com.amazon.base.BaseBrowser;
 import com.amazon.utils.PropertyUtils;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.testng.annotations.DataProvider;
 
 import java.util.*;
@@ -69,6 +69,11 @@ public class TestCaseMethods extends BaseBrowser {
                 break;
             }
         }
+    }
+
+    public static List<WebElement> getLinksFromHomePage(){
+        List<WebElement> links = driver.findElements(By.tagName("a"));
+        return links;
     }
 
     public static void selectRandomProductMobileSection() {
@@ -176,12 +181,6 @@ public class TestCaseMethods extends BaseBrowser {
         return ReusableMethods.isDisplay(locatorProp, "amazon.address.beg.xp", pinCode, "amazon.address.end.xp");
     }
 
-    @DataProvider(name = "userCredential")
-    public Object[][] getPropertyFileData() {
-
-        return new Object[][]{{PropertyUtils.get("username"), PropertyUtils.get("phoneNumber")}};
-    }
-
     public static boolean navigateToSignInPage() {
 
         ReusableMethods.clickXp(locatorProp, "amazon.signIn.xp");
@@ -198,4 +197,5 @@ public class TestCaseMethods extends BaseBrowser {
     public static String getInvalidErrorMessage() {
         return ReusableMethods.getTextXp(locatorProp, "amazon.errorMsg.xp");
     }
+
 }
