@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="RemoveProductFromCartTest" verbose="1"
+       parallel="tests" thread-count="1" preserve-order="true">
+
+    <test name="RemoveProductFromCartTest">
+        <classes>
+            <class
+                    name="com.amazon.test.RemoveProductFromCartTest" />
+        </classes>
+    </test>
+</suite>
