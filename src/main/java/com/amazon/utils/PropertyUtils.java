@@ -1,5 +1,7 @@
 package com.amazon.utils;
 
+import com.amazon.enums.*;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
@@ -7,6 +9,8 @@ import java.util.ResourceBundle;
 
 public class PropertyUtils {
     private static ResourceBundle file;
+
+    static Properties acctProps = new Properties();
 
     static {
         file = ResourceBundle.getBundle("TestData");
@@ -48,7 +52,6 @@ public class PropertyUtils {
 
     public static Properties locatorProperties() {
 
-        Properties acctProps = new Properties();
         ClassLoader classLoader = PropertyUtils.class.getClassLoader();
         InputStream in = classLoader.getResourceAsStream("Locators.properties");
         try {
@@ -57,5 +60,19 @@ public class PropertyUtils {
             e.printStackTrace();
         }
         return acctProps;
+    }
+
+    public static String getValue(String key) throws IOException {
+
+        String value = "";
+        ClassLoader classLoader = PropertyUtils.class.getClassLoader();
+        InputStream in = classLoader.getResourceAsStream("TestData.properties");
+        acctProps.load(in);
+        if (acctProps.getProperty(key) != null) {
+            value = acctProps.getProperty(key);
+        } else {
+            LogUtils.log("The key " + key + " is not found in testData.properties", LogLevel.HIGH);
+        }
+        return value;
     }
 }

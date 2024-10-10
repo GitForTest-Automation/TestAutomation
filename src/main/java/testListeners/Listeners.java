@@ -67,8 +67,20 @@ public class Listeners extends ReusableMethods implements ITestListener, ISuiteL
     }
 
     @Override
-    public void onFinish(ITestContext context) {
+    public void onFinish(ITestResult context) {
+        LogUtils.setNoOfSteps(0);
+        LogUtils.setNoOfSections(0);
 
+        LogUtils.commonConsoleLog(new StringBuilder("").toString());
+        LogUtils.commonConsoleLog(new StringBuilder("").toString());
+
+        long time = Calendar.getInstance().getTimeInMillis();
+        String startTime = formatToZone(time, DateTimeZone.forID("Asia/Kolkata"), LARGE_FORMAT);
+        String content = "<p style=\"text-decoration:underline;font-weight:bold\">START TIME : " + startTime + "</p>";
+        logStart = content;
+        String methodName = context.getMethod().getMethodName();
+        LogUtils.commonConsoleLog(new StringBuilder("End Test " + methodName).toString());
+        LogUtils.commonConsoleLog(new StringBuilder("END TIME : " + startTime).toString());
     }
 
     public static String formatToZone(Long milliseconds, DateTimeZone zone, String pattern) {

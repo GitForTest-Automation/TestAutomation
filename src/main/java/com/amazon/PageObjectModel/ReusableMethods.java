@@ -7,6 +7,7 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.*;
 
 import java.io.File;
 import java.io.IOException;
@@ -17,7 +18,7 @@ import java.util.List;
 import java.util.Properties;
 import java.util.Random;
 
-public class ReusableMethods extends BaseBrowser {
+public abstract class ReusableMethods extends BaseBrowser {
 
     public static void myWait(int time) {
         try {
@@ -139,4 +140,6 @@ public class ReusableMethods extends BaseBrowser {
             return false;
         }
     }
+
+    public abstract void onFinish(ITestResult context);
 }
