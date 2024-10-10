@@ -1,4 +1,5 @@
-Amazon-Test-Automation Framework
+****Amazon-Test-Automation Framework**
+
 This repository contains an automation framework designed to test the functionality of the Amazon application using the
 Page Object Model (POM). The framework integrates various tools such as TestNG for test execution, TestRail for managing
 test results, and Extent Reports for reporting.
